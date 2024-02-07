@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  return <div className="text-green-500">audiophile</div>;
+  return <div className="text-beige">audiophile</div>;
 }
 
 export default App;
